@@ -1,0 +1,20 @@
+{
+  "name": "aula0",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo de node.js com a turma do curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraaobb/curso-nodex.git"
+  },
+  "author": "Abraao Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraaobb/curso-nodex/issues"
+  },
+  "homepage": "https://github.com/abraaobb/curso-nodex#readme"
+}
