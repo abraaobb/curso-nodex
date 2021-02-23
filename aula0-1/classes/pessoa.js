@@ -1,6 +1,6 @@
 class Pessoa {
-    constructor() {
-        console.log(`nova pessoa instanciada`);
+    constructor(senha) {
+        console.log(`nova pessoa instanciada - ${senha}`);
     }
 }
 
